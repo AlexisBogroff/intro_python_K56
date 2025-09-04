@@ -1,5 +1,5 @@
 # intro_python_K56
-Introduction à la programmation avec Python, comprendre les fondamentaux et pouvoir créer une webapp.
+Introduction à la programmation avec Python, comprendre les fondamentaux et créer une webapp.
 
 
 ## Licence
@@ -7,7 +7,7 @@ Introduction à la programmation avec Python, comprendre les fondamentaux et pou
 Ce cours est distribué sous licence **Creative Commons Attribution - Non Commercial - Share Alike 4.0 International (CC BY-NC-SA 4.0)**.  
 
 Cela signifie que vous êtes libre de partager et d’adapter ce contenu à condition de :  
-- **citer l’auteur** : [Ton Nom] et ce dépôt GitHub  
+- **citer l’auteur** : Alexis BOGROFF et ce dépôt GitHub
 - **ne pas en faire un usage commercial**  
 - **redistribuer vos adaptations sous la même licence**
 
